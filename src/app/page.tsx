@@ -14,7 +14,7 @@ export default function Home() {
           <div className="relative group">
             <div className="absolute inset-0 rounded-full bg-blue-500 blur-2xl opacity-20 group-hover:opacity-40 transition duration-500"></div>
             <img
-              src="/profile.jpg"
+              src="profile.png"
               alt="Foto Rifki"
               className="relative w-44 h-44 md:w-56 md:h-56 rounded-full border-4 border-blue-500 shadow-xl transform group-hover:scale-105 transition duration-500"
             />

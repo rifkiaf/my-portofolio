@@ -74,7 +74,7 @@ export default function CertificationPage() {
               {
                 title: "Belajar Dasar AI",
                 issuer: "Dicoding",
-                link: "https://www.dicoding.com/certificates/81P2483KJZOY",
+                link: "https://www.dicoding.com/certificates/QLZ967Q37Z5D",
               },
               {
                 title: "Belajar Penerapan Machine Learning dengan Google Cloud",

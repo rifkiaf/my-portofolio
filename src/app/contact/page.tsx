@@ -28,8 +28,8 @@ export default function ContactPage() {
                   emoji: "📧",
                 },
                 {
-                  href: "https://linkedin.com/in/rifkiahmadfahreizi",
-                  label: "linkedin.com/in/rifkiahmadfahreizi",
+                  href: "https://linkedin.com/in/rifki-ahmad-fahreizi",
+                  label: "linkedin.com/in/rifki-ahmad-fahreizi",
                   emoji: "🔗",
                 },
                 {
