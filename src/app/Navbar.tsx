@@ -23,6 +23,7 @@ const Navbar = () => {
             { href: "/", label: "Home" },
             { href: "/about", label: "Tentang" },
             { href: "/project", label: "Proyek" },
+            { href: "/course", label: "Kursus" },
             { href: "/certification", label: "Sertifikat" },
             { href: "/contact", label: "Kontak" },
           ].map((item, idx) => (
@@ -71,6 +72,7 @@ const Navbar = () => {
             { href: "/", label: "Home" },
             { href: "/about", label: "Tentang" },
             { href: "/project", label: "Proyek" },
+            { href: "/course", label: "Kursus" },
             { href: "/certification", label: "Sertifikat" },
             { href: "/contact", label: "Kontak" },
           ].map((item, idx) => (

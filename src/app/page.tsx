@@ -30,9 +30,9 @@ export default function Home() {
             </h2>
             <p className="text-lg md:text-xl text-gray-400 mb-8">
               <span className="font-semibold text-gray-200">
-                Software Developer
+                DevOps & Software Engineer
               </span>{" "}
-              yang fokus membangun aplikasi modern, scalable, dan user-friendly.
+              yang berfokus membangun solusi digital yang scalable dan dapat diandalkan.
             </p>
             <div className="flex flex-wrap justify-center md:justify-start gap-4">
               <a

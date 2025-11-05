@@ -33,13 +33,6 @@ export default function ProjectPage() {
                 color: "from-green-400 to-yellow-300",
                 link: "https://github.com/Capstone-DEBUSA",
               },
-              {
-                icon: "✍️",
-                title: "Blog Platform",
-                desc: "Platform blog modern dengan Markdown editor & sistem komentar.",
-                color: "from-purple-500 to-pink-600",
-                link: "#",
-              },
             ].map((project, i) => (
               <div
                 key={i}

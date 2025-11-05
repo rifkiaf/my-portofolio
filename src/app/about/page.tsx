@@ -17,16 +17,27 @@ export default function AboutPage() {
           {/* Intro */}
           <p className="text-gray-300 leading-relaxed mb-6 text-lg">
             Halo! Saya{" "}
-            <span className="text-white font-semibold">Rifki Ahmad Fahreizi</span>, seorang{" "}
-            <span className="text-blue-400 font-semibold">Software Developer</span>.
+            <span className="text-white font-semibold">
+              Rifki Ahmad Fahreizi
+            </span>
+            , seorang{" "}
+            <span className="text-blue-400 font-semibold">
+              DevOps & Software Engineer
+            </span>
+            .
           </p>
           <p className="text-gray-400 leading-relaxed mb-6">
-            Fokus saya adalah menciptakan solusi digital yang cepat, responsif, dan mudah digunakan, dengan desain yang menarik serta pengalaman pengguna yang optimal.
+            Saya berfokus pada pengembangan dan pengelolaan sistem berbasis
+            cloud yang efisien, otomatis, dan mudah di-scale untuk mendukung
+            proses pengembangan aplikasi yang berkelanjutan.
           </p>
           <p className="text-gray-400 leading-relaxed mb-10">
-            Saya percaya bahwa pendekatan yang tepat dan integrasi teknologi yang efisien sangat penting untuk menghasilkan aplikasi yang{" "}
-            <span className="italic">andal</span>,{" "}
-            <span className="italic">efisien</span>, dan mudah dikembangkan seiring waktu.
+            Tujuan saya adalah membangun solusi yang{" "}
+            <span className="italic">reliable</span>,{" "}
+            <span className="italic">scalable</span>, dan mudah dikembangkan,
+            dengan menerapkan praktik terbaik di dunia{" "}
+            <span className="italic">DevOps</span> dan{" "}
+            <span className="italic">Cloud Engineering</span>.
           </p>
 
           {/* Hard Skills */}
@@ -50,9 +61,10 @@ export default function AboutPage() {
                 "Git & GitHub",
                 "Postman",
                 "Docker",
-                "CI/CD",
                 "Linux Ubuntu",
-                "Google Cloud",
+                "Cloud Computing",
+                "Google Cloud Platform",
+                "Networking",
               ].map((skill, i) => (
                 <span
                   key={i}

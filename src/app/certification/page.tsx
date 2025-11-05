@@ -15,6 +15,31 @@ export default function CertificationPage() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             {[
               {
+                title: "Junior Web Programmer",
+                issuer: "Badan Nasional Sertifikasi Profesi",
+                link: "/certificate/bnsp-jwp.pdf",
+              },
+              {
+                title: "Belajar Back-End Pemula dengan JavaScript",
+                issuer: "Dicoding",
+                link: "https://www.dicoding.com/certificates/MRZM66LOKPYQ",
+              },
+              {
+                title: "Belajar Dasar Pemrograman JavaScript",
+                issuer: "Dicoding",
+                link: "https://www.dicoding.com/certificates/N9ZO29OJ6PG5",
+              },
+              {
+                title: "Belajar Dasar Cloud dan Gen Ai di AWS",
+                issuer: "Dicoding",
+                link: "https://www.dicoding.com/certificates/53XEKQMQKXRN",
+              },
+              {
+                title: "Belajar Dasar AI",
+                issuer: "Dicoding",
+                link: "https://www.dicoding.com/certificates/QLZ967Q37Z5D",
+              },
+              {
                 title: "Financial Literacy",
                 issuer: "Dicoding",
                 link: "https://www.dicoding.com/certificates/L4PQEV01OPO1",
@@ -25,19 +50,9 @@ export default function CertificationPage() {
                 link: "https://www.dicoding.com/certificates/RVZKWJ5Y4ZD5",
               },
               {
-                title: "Belajar Back-End Pemula dengan JavaScript",
-                issuer: "Dicoding",
-                link: "https://www.dicoding.com/certificates/L4PQEJ7K2PO1",
-              },
-              {
                 title: "Belajar Fundamental Front-End Web Development",
                 issuer: "Dicoding",
                 link: "https://www.dicoding.com/certificates/72ZD56R3LZYW",
-              },
-              {
-                title: "Belajar Dasar Pemrograman JavaScript",
-                issuer: "Dicoding",
-                link: "https://www.dicoding.com/certificates/KEXL72EW4XG2",
               },
               {
                 title: "Belajar Membuat Front-End Web untuk Pemula",
@@ -70,11 +85,6 @@ export default function CertificationPage() {
                 title: "Belajar Membuat Aplikasi Web dengan React",
                 issuer: "Dicoding",
                 link: "https://www.dicoding.com/certificates/EYX4J4V06ZDL",
-              },
-              {
-                title: "Belajar Dasar AI",
-                issuer: "Dicoding",
-                link: "https://www.dicoding.com/certificates/QLZ967Q37Z5D",
               },
               {
                 title: "Belajar Penerapan Machine Learning dengan Google Cloud",
